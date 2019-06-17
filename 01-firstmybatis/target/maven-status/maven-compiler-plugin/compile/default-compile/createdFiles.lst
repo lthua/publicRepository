@@ -1,0 +1,4 @@
+com\lth\bean\Student.class
+com\lth\dao\impl\StudentDaoImpl.class
+com\lth\dao\StudentDao.class
+com\lth\test\StudentTest01.class
